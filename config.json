@@ -163,8 +163,8 @@
     ],
     "ui_tab_order": [],
     "hidden_tabs": [
-        "Train",
-        "Checkpoint Merger"
+        "",
+        ""
     ],
     "ui_reorder_list": [],
     "hires_fix_show_sampler": false,
